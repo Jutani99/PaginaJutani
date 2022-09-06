@@ -14,7 +14,7 @@ header:hover {
 
 
 #Encabezado:hover {
-	color: rgb(158, 72, 10);
+	color: rgb(157, 72, 10);
 	cursor: pointer;
 	font-size: 4em;
 	transition: 1.2s;
